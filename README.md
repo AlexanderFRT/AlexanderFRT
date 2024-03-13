@@ -18,8 +18,7 @@ Actively pursuing opportunities in Backend/Full-stack Development, I am on a con
 
 - 🔭 I’m currently working on [Database Management]
 - 🌱 I’m currently learning [Backend Development with C# .NET, and Full-Stack Development using Blazor Framework]
-- 👯 I’m looking to collaborate on [Open Source Projects]
-- 💬 Ask me about [Any Topic/Technology]
+- 🤝 I’m looking to collaborate on [Open Source Projects]
 
 ---
 
