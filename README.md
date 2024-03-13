@@ -23,10 +23,11 @@ Actively pursuing opportunities in Backend/Full-stack Development, I am on a con
 
 ---
 
-## 🌐 How to Reach Me
+## 🌐 Connect with Me
 
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/alexanderfloresreyes)
 - Email: [Your Email Address](AlexanderFRT@outlook.com)
+- GitHub: [Your GitHub Profile](https://github.com/AlexanderFRT)
 
 ---
 
@@ -54,14 +55,8 @@ Actively pursuing opportunities in Backend/Full-stack Development, I am on a con
 
 ---
 
-## 🌐 Find Me Online
-
-- GitHub: [Your GitHub Profile](https://github.com/AlexanderFRT)
-
----
-
 ## ⚡ Fun Fact
 
-[Did you know that C# was initially named "Cool"? It was later changed to C# during development as a homage to the musical notation where "#" represents a sharp note, indicating that C# was designed to be a higher-level language than C and aimed to provide greater productivity and ease of use for developers. So, next time you write some code in C#, remember that it's the "sharp" choice for cool modern software development!]
+Did you know that C# was initially named "Cool"? It was later changed to C# during development as a homage to the musical notation where "#" represents a sharp note, indicating that C# was designed to be a higher-level language than C and aimed to provide greater productivity and ease of use for developers. So, next time you write some code in C#, remember that it's the "cool" choice for modern software development!
 
 ---
