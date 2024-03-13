@@ -1,6 +1,6 @@
 # 👨‍💻🌳 [AlexanderFRT]
 
-### Database Manager | Skilled in C# .NET, SQL, JIRA, Bootstrap | Exploring Backend/Full-stack Development | Cloud Solutions | ORM | Lifelong Learner 🌌
+### Database Manager | Skilled in C# .NET, SQL, JIRA, Bootstrap | Exploring Backend/Full-stack Development | Cloud Solutions | ORM | Lifelong Learner 
 
 [![C# .NET](https://img.shields.io/badge/C%23%20.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white&labelColor=101010)]()
 [![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logoColor=white&labelColor=4A148C)]()
@@ -51,8 +51,8 @@ Actively pursuing opportunities in Backend/Full-stack Development, I am on a con
 
 ## 🔧 Technologies
 
-- C# .NET
-- SQL
+- C# .NET, .NET Core, ASP .NET, ++ 🌌
+- Microsoft SQL Server
 - Javascript
 - HTML & CSS
 - Public, Private & Hybrid Cloud
@@ -75,6 +75,6 @@ Actively pursuing opportunities in Backend/Full-stack Development, I am on a con
 
 ## ⚡ Fun Fact
 
-Did you know that C# was initially named "Cool"? It was later changed to C# during development as a homage to the musical notation where "#" represents a sharp note, indicating that C# was designed to be a higher-level language than C and aimed to provide greater productivity and ease of use for developers. So, next time you write some code in C#, remember that it's the "cool" choice for modern software development!
+Did you know that C# was initially named "Cool"? It was later changed to C# during development as a homage to the musical notation where "#" represents a sharp note, indicating that C# was designed to be a higher-level language than C and aimed to provide greater productivity and ease of use for developers. So, next time you write some code in C#, remember that it's the "cool" choice for modern software development! 
 
 ---
