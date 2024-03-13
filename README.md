@@ -1,4 +1,4 @@
-# 👨‍💻🌳 [AlexanderFRT]
+# 👨‍💻 [AlexanderFRT] 🌳
 
 ### Database Manager | Skilled in C# .NET, SQL, JIRA, Bootstrap | Exploring Backend/Full-stack Development | Cloud Solutions | ORM | Lifelong Learner 
 
