@@ -4,6 +4,8 @@
 
 ### Database Manager | Skilled in C# .NET, SQL, JIRA, Bootstrap | Exploring Backend/Full-stack Development | Cloud Solutions | ORM | Lifelong Learner
 
+[Take a tour of my projects](https://github.com/AlexanderFRT?tab=repositories)
+
 ---
 
 ## About Me
@@ -25,9 +27,9 @@ Actively pursuing opportunities in Backend/Full-stack Development, I am on a con
 
 ## 🌐 Connect with Me
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/alexanderfloresreyes)
-- Email: [Your Email Address](AlexanderFRT@outlook.com)
-- GitHub: [Your GitHub Profile](https://github.com/AlexanderFRT)
+- LinkedIn: [Alexander Flores Reyes](https://www.linkedin.com/in/alexanderfloresreyes)
+- Email: [AlexanderFRT@outlook.com](AlexanderFRT@outlook.com)
+- GitHub: [AlexanderFRT](https://github.com/AlexanderFRT)
 
 ---
 
