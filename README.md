@@ -1,6 +1,6 @@
 # 👨‍💻 [AlexanderFRT] 🌳
 
-### Database Manager | Skilled in C# .NET, SQL, JIRA, Bootstrap | Exploring Backend/Full-stack Development | Cloud Solutions | ORM | Lifelong Learner 
+### Embarking on the journey of Backend and Full-stack Development 🛫
 
 [![C# .NET](https://img.shields.io/badge/C%23%20.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white&labelColor=101010)]()
 [![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logoColor=white&labelColor=4A148C)]()
