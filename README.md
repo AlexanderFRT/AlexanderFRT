@@ -1,10 +1,8 @@
 # 👨‍💻🌳 [AlexanderFRT]
 
-## Architecting the digital realm and sculpting databases, one keystroke at the time. 🌌
+### Database Manager | Skilled in C# .NET, SQL, JIRA, Bootstrap | Exploring Backend/Full-stack Development | Cloud Solutions | ORM | Lifelong Learner 🌌
 
-### Database Manager | Skilled in C# .NET, SQL, JIRA, Bootstrap | Exploring Backend/Full-stack Development | Cloud Solutions | ORM | Lifelong Learner
-
-[Take a tour of my projects](https://github.com/AlexanderFRT?tab=repositories)
+### [Take a tour of my projects](https://github.com/AlexanderFRT?tab=repositories)
 
 ---
 
@@ -28,7 +26,7 @@ Actively pursuing opportunities in Backend/Full-stack Development, I am on a con
 ## 🌐 Connect with Me
 
 - LinkedIn: [Alexander Flores Reyes](https://www.linkedin.com/in/alexanderfloresreyes)
-- Email: [AlexanderFRT@outlook.com](AlexanderFRT@outlook.com)
+- Email: [AlexanderFRT@outlook.com](mailto:AlexanderFRT@outlook.com)
 - GitHub: [AlexanderFRT](https://github.com/AlexanderFRT)
 
 ---
