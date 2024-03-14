@@ -5,7 +5,7 @@
 [![C# .NET](https://img.shields.io/badge/C%23%20.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white&labelColor=101010)]()
 [![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logoColor=white&labelColor=4A148C)]()
 [![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logoColor=white&labelColor=64B5F6)]()
-[![Dapper](https://img.shields.io/badge/Dapper-FFA500?style=for-the-badge&logo=dapper&logoColor=white&labelColor=101010)]()
+[![Dapper](https://img.shields.io/badge/Dapper-512BD4?style=for-the-badge&logo=dapper&logoColor=white&labelColor=101010)]()
 </br>
 [![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
