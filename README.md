@@ -11,8 +11,8 @@
 [![HTML & CSS](https://img.shields.io/badge/HTML%20%26%20CSS-47A248?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
 </br>
 [![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white&labelColor=101010)]()
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=101010)]()
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010)]()
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=101010)]()
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
 [![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white&labelColor=101010)]()
 [![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white&labelColor=101010)]()
@@ -64,13 +64,13 @@ Actively pursuing opportunities in Backend/Full-stack Development, I am on a con
 ## 🛠️ Frameworks
 
 - Blazor
+- Bootstrap
 
 ---
 
 ## 🔨 Tools
 
 - Postman
-- Bootstrap
 - Git
 - Trello
 - Jira
