@@ -45,31 +45,26 @@
 
 ---
 
-## 🔧 Technologies
+## 🔧 Technologies & 🛠️ Frameworks
 
-- C# .NET, .NET Core, ASP .NET, ++ 🌌
-- Microsoft SQL Server
-- Javascript
-- HTML & CSS
-- Public, Private & Hybrid Cloud
-
----
-
-## 🛠️ Frameworks
-
-- Blazor
-- Bootstrap
-- Dapper ORM
+- 💻 C# .NET, .NET Core, ASP .NET
+- 🗃️ Entity Framework, Dapper (ORMs)
+- 🛢️ &nbsp;Microsoft SQL Server
+- 🚀 Blazor
+- 🎨 Bootstrap
+- 🟡 Javascript
+- 📝 HTML & CSS
+- ☁️ Public, Private & Hybrid Cloud
 
 ---
 
 ## 🔨 Tools
 
-- Postman
-- Git
-- Trello
-- Jira
-  
+- 📦 Postman
+- 🔄 Git
+- 📆 Trello
+- 📅 Jira
+
 ---
 
 ## ⚡ Fun Fact
