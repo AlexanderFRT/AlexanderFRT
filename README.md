@@ -31,7 +31,7 @@
 
 ## 🚀 Current Focus
 
-- 🔭 Currently developing [Encriptador-de-texto-BMO](https://github.com/AlexanderFRT/Encriptador-de-texto-BMO) [using HTML, CSS, and JavaScript].
+- 🔭 Actively developing [Encriptador-de-texto-BMO](https://github.com/AlexanderFRT/Encriptador-de-texto-BMO) [using HTML, CSS, and JavaScript].
 - 🌱 Learning [Backend Development with C# .NET] and exploring [Full-Stack Development using Blazor Framework].
 - 🤝 Open to collaborating on exciting [Open Source Projects].
 
