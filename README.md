@@ -29,19 +29,11 @@
 
 ---
 
-## About Me
-
-Database Manager with a proven track record of over 5 years in lead acquisition across diverse sectors, including Desalination, Mining, Oil & Gas, and Renewables. I bring a dynamic blend of technical expertise and strategic thinking to every project, driving impactful results.
-
-Actively pursuing opportunities in Backend/Full-stack Development, I am on a continuous learning journey, striving to enhance my skills and stay ahead in the ever-evolving tech landscape. Passionate about innovation and growth strategies, I have a solid foundation in database management and a focused interest in cutting-edge technologies. Eager to contribute my versatile skill set to drive excellence in a dynamic project environment.
-
----
-
 ## 🚀 Current Focus
 
-- 🔭 I’m currently working on [Encriptador-de-texto-BMO](https://github.com/AlexanderFRT/Encriptador-de-texto-BMO)
-- 🌱 I’m currently learning [Backend Development with C# .NET, and Full-Stack Development using Blazor Framework]
-- 🤝 I’m looking to collaborate on [Open Source Projects]
+- 🔭 Currently developing [Encriptador-de-texto-BMO](https://github.com/AlexanderFRT/Encriptador-de-texto-BMO) [using HTML, CSS, and JavaScript].
+- 🌱 Learning [Backend Development with C# .NET] and exploring [Full-Stack Development using Blazor Framework].
+- 🤝 Open to collaborating on exciting [Open Source Projects].
 
 ---
 
