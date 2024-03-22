@@ -9,6 +9,8 @@
 [![Dapper](https://img.shields.io/badge/Dapper-512BD4?style=for-the-badge)]()
 </br>
 [![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&labelColor=101010)]()
+[![☕](https://img.shields.io/badge/%E2%98%95-101010?style=for-the-badge)]()[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&label=&logo=java&logoColor=white&labelColor=007396)]()
+[![Spring Framework](https://img.shields.io/badge/Spring_Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![HTML & CSS](https://img.shields.io/badge/HTML%20%26%20CSS-47A248?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
 </br>
@@ -17,6 +19,7 @@
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=101010)]()
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
 [![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white&labelColor=101010)]()
+[![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white&labelColor=101010)]()
 [![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white&labelColor=101010)]()
 </br>
 [![IBM](https://img.shields.io/badge/IBM-666666?style=for-the-badge&logo=ibm&logoColor=white&labelColor=101010)]()
@@ -50,6 +53,8 @@
 - 💻 C# .NET, .NET Core, ASP .NET
 - 🗃️ Entity Framework, Dapper (ORMs)
 - 🛢️ &nbsp;Microsoft SQL Server
+- ☕ Java
+- 🍃 Spring
 - 🚀 Blazor
 - 🎨 Bootstrap
 - 🟡 Javascript
@@ -63,7 +68,8 @@
 - 📦 Postman
 - 🔄 Git
 - 📆 Trello
-- 📅 Jira
+- 📌 Jira
+- 💬 Slack
 
 ---
 
