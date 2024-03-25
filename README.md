@@ -74,6 +74,7 @@ Explore my [GitHub repositories](https://github.com/AlexanderFRT?tab=repositorie
 
 ## 🔨 Tools
 
+- 🐋 Docker
 - 📦 Postman
 - 🔄 Git
 - 📆 Trello
