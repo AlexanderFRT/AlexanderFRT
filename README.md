@@ -22,8 +22,9 @@
 [![Slack Logo](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white&labelColor=101010)]()
 [![JIRA Logo](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white&labelColor=101010)]()
 </br>
+[![Docker Logo](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=101010)]()
 [![IBM Logo](https://img.shields.io/badge/IBM-666666?style=for-the-badge&logo=ibm&logoColor=white&labelColor=101010)]()
-[![Azure Logo](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white&labelColor=101010)]()
+[![Azure Logo](https://img.shields.io/badge/Azure-007FFF?style=for-the-badge&logo=microsoft-azure&logoColor=white&labelColor=101010)]()
 [![AWS Logo](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)]()
 [![Oracle Logo](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=101010)]()
 [![Google Cloud Logo](https://img.shields.io/badge/Google%20Cloud-2373C5E0?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=101010)]()
