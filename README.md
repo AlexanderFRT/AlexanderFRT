@@ -30,8 +30,11 @@
 
 ### 🌟 Take a Tour of My Deployed Projects
 
-- 🤖 [Encriptador de Texto BMO / Text Encrypter BMO](https://alexanderfrt.github.io/Encriptador-de-texto-BMO/) - A project for encrypting and decrypting text using HTML, CSS, and JavaScript.
-- 🎲 [Juego del Número Secreto / Game of the Secret Number](https://alexanderfrt.github.io/Numero-Secreto/) - A game application where users guess a secret number.
+- 🤖 [Encriptador de Texto BMO / Text Encrypter BMO](https://alexanderfrt.github.io/Encriptador-de-texto-BMO/) - A web application for encrypting and decrypting text.  
+  **Tech Stack:** HTML, CSS, and JavaScript.
+  
+- 🎲 [Juego del Número Secreto / Game of the Secret Number](https://alexanderfrt.github.io/Numero-Secreto/) - An interactive game where users guess a secret number.  
+  **Tech Stack:** HTML, CSS, and JavaScript.
 
 Explore my [GitHub repositories](https://github.com/AlexanderFRT?tab=repositories) for more projects and their source code.
 
