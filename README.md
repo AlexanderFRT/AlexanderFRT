@@ -6,7 +6,6 @@
 [![.NET Core Logo](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge)]()
 [![ASP.NET Logo](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge)]()
 [![Entity Framework Logo](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge)]()
-[![Dapper Logo](https://img.shields.io/badge/Dapper-512BD4?style=for-the-badge)]()
 </br>
 [![Microsoft SQL Server Logo](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&labelColor=101010)]()
 [![☕ Logo](https://img.shields.io/badge/%E2%98%95-101010?style=for-the-badge)]()[![Java Logo](https://img.shields.io/badge/Java-007396?style=for-the-badge&label=&logo=java&logoColor=white&labelColor=007396)]()
@@ -60,13 +59,12 @@ Explore my [GitHub repositories](https://github.com/AlexanderFRT?tab=repositorie
 
 ## 🔧 Technologies & 🛠️ Frameworks
 
-- 💻 C# .NET, .NET Core, ASP .NET
-- 🗃️ Entity Framework, Dapper (ORMs)
-- 🛢️ &nbsp;Microsoft SQL Server
+- 💻 C# .NET, .NET Core, ASP .NET Web API - MVC
+- 🚀 Blazor
 - ☕ Java
 - 🍃 Spring
-- 🚀 Blazor
-- 🎨 Bootstrap
+- 🗃️ Entity Framework, Hibernate (ORMs)
+- 🛢️ &nbsp;PostgreSQL, MySQL, SQLite
 - 🟡 Javascript
 - 📝 HTML & CSS
 - ☁️ Public, Private & Hybrid Cloud
@@ -78,6 +76,8 @@ Explore my [GitHub repositories](https://github.com/AlexanderFRT?tab=repositorie
 - 🐋 Docker
 - 📦 Postman
 - 🔄 Git
+- 📊 Posthog
+- 🎨 Bootstrap, Tailwind, Shadcn
 - 📆 Trello
 - 📌 Jira
 - 💬 Slack
