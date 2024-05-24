@@ -17,6 +17,7 @@
 [![Bootstrap Logo](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010)]()
 [![Postman Logo](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=101010)]()
 [![Git Logo](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
+[![Tailwind CSS Logo](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=101010)]()
 [![Trello Logo](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white&labelColor=101010)]()
 [![Slack Logo](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white&labelColor=101010)]()
 [![JIRA Logo](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white&labelColor=101010)]()
@@ -27,6 +28,7 @@
 [![AWS Logo](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)]()
 [![Oracle Logo](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=101010)]()
 [![Google Cloud Logo](https://img.shields.io/badge/Google%20Cloud-2373C5E0?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=101010)]()
+[![PostHog Logo](https://img.shields.io/badge/PostHog-EE3E8E?style=for-the-badge&logo=posthog&logoColor=white&labelColor=101010)]()
 
 ### 🌟 Take a Tour of My Deployed Projects
 
