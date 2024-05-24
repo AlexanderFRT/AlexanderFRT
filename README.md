@@ -2,18 +2,18 @@
 
 ### Embarking on the journey of Backend and Full-stack Development 🛫
 
-[![C# .NET Logo](https://img.shields.io/badge/C%23%20.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white&labelColor=101010)]()
-[![.NET Core Logo](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge)]()
-[![ASP.NET Logo](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge)]()
-[![Entity Framework Logo](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge)]()
-</br>
-[![Microsoft SQL Server Logo](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&labelColor=101010)]()
-[![☕ Logo](https://img.shields.io/badge/%E2%98%95-101010?style=for-the-badge)]()[![Java Logo](https://img.shields.io/badge/Java-007396?style=for-the-badge&label=&logo=java&logoColor=white&labelColor=007396)]()
+[![C# .NET Logo](https://img.shields.io/badge/C%23%20.NET%20|%20.NET_Core%20|%20ASP.NET%20|%20Entity_Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white&labelColor=101010)]()
+[![☕ Logo](https://img.shields.io/badge/%E2%98%95-101010?style=for-the-badge)]()[![Java Logo](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=&logoColor=white&labelColor=101010)]()
 [![Spring Framework Logo](https://img.shields.io/badge/Spring_Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white&labelColor=101010)]()
-[![JavaScript Logo](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
-[![HTML & CSS Logo](https://img.shields.io/badge/HTML%20%26%20CSS-47A248?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
+[![Hibernate Logo](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white&labelColor=101010)]()
 </br>
+[![PostgreSQL Logo](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010)]()
+[![MySQL Logo](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+[![SQLite Logo](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=101010)]()
 [![Blazor Logo](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white&labelColor=101010)]()
+[![JavaScript Logo](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
+[![HTML & CSS Logo](https://img.shields.io/badge/HTML%20%26%20CSS-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
+</br>
 [![Bootstrap Logo](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010)]()
 [![Postman Logo](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=101010)]()
 [![Git Logo](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
@@ -43,7 +43,7 @@ Explore my [GitHub repositories](https://github.com/AlexanderFRT?tab=repositorie
 ## 🚀 Current Focus
 
 - 🔭 Actively developing [RocketReel](https://github.com/AlexanderFRT/RocketReel) [using ASP .NET Core for Backend Development, Entity Framework Core for Database Management, Blazor for Frontend UI, HTML/CSS for Basic Styling, C# .NET Core for Server-Side Logic and Docker for Containerization].
-- 🌱 Learning [Backend Development with C# .NET] and exploring [Full-Stack Development using Blazor Framework].
+- 🌱 Learning [Backend Development with C# .NET and Java Spring] and exploring [Full-Stack Development using Blazor Framework].
 - 🤝 Open to collaborating on exciting [Open Source Projects].
 - 🚧 Currently colaborating on a [Digital Banking Platform](https://github.com/No-Country/c17-116-n-csharp).
 
@@ -59,13 +59,14 @@ Explore my [GitHub repositories](https://github.com/AlexanderFRT?tab=repositorie
 
 ## 🔧 Technologies & 🛠️ Frameworks
 
-- 💻 C# .NET, .NET Core, ASP .NET Web API - MVC
+- 👾 C#
+- 🧿 .NET, .NET Core, ASP .NET Web API - MVC
 - 🚀 Blazor
 - ☕ Java
 - 🍃 Spring
 - 🗃️ Entity Framework, Hibernate (ORMs)
-- 🛢️ &nbsp;PostgreSQL, MySQL, SQLite
-- 🟡 Javascript
+- &hairsp;🛢️ &hairsp;PostgreSQL, MySQL, SQLite
+- 🔆 Javascript
 - 📝 HTML & CSS
 - ☁️ Public, Private & Hybrid Cloud
 
@@ -74,7 +75,7 @@ Explore my [GitHub repositories](https://github.com/AlexanderFRT?tab=repositorie
 ## 🔨 Tools
 
 - 🐋 Docker
-- 📦 Postman
+- 📦 Postman, Swagger
 - 🔄 Git
 - 📊 Posthog
 - 🎨 Bootstrap, Tailwind, Shadcn
