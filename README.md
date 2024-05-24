@@ -2,7 +2,7 @@
 
 ### Embarking on the journey of Backend and Full-stack Development 🛫
 
-[![C# .NET Logo](https://img.shields.io/badge/C%23%20.NET%20|%20.NET_Core%20|%20ASP.NET%20|%20Entity_Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white&labelColor=101010)]()
+[![C# .NET Logo](https://img.shields.io/badge/C%23%20.NET%20Core%20|%20ASP.NET%20|%20Entity_Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white&labelColor=101010)]()
 [![☕ Logo](https://img.shields.io/badge/%E2%98%95-101010?style=for-the-badge)]()[![Java Logo](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=&logoColor=white&labelColor=101010)]()
 [![Spring Framework Logo](https://img.shields.io/badge/Spring_Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white&labelColor=101010)]()
 [![Hibernate Logo](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white&labelColor=101010)]()
