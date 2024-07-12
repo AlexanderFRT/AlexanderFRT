@@ -50,7 +50,7 @@ Explore my [GitHub repositories](https://github.com/AlexanderFRT?tab=repositorie
 - 🔭 Actively developing [RocketReel](https://github.com/AlexanderFRT/RocketReel) [using ASP .NET Core for Backend Development, Entity Framework Core for Database Management, Blazor for Frontend UI, HTML/CSS for Basic Styling, C# .NET Core for Server-Side Logic and Docker for Containerization].
 - 🌱 Learning [Backend Development with C# .NET and Java Spring] and exploring [Full-Stack Development using Blazor Framework].
 - 🤝 Open to collaborating on exciting [Open Source Projects].
-- 🚧 Currently colaborating on a [Digital Banking Platform](https://github.com/No-Country/c17-116-n-csharp).
+- 🚧 Currently colaborating on a [Petopia - A web app for pet health and tracking](https://github.com/No-Country-simulation/s16-13-n-csharp-react).
 
 ---
 
